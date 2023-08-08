@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+body {
+    background-color: rgb(14, 39, 70);
+
+}
+
+nav {
+
+    background-color: rgb(7, 22, 41);
+    color: rgb(230, 230, 230);
+    padding: 1px 10px;
+
+}
+#navbar{
+    margin-left: 20px;
+}
+
+h2 {
+    color: rgb(171, 217, 249);
+    margin-bottom: 25px;
+}
+
+div {
+    margin: 15px 0;
+}
+
+#container {
+    width: 500px;
+    height: 300px;
+    margin: 67px 400px;
+    padding: 50px;
+    background-color: rgb(31, 68, 113);
+    color: rgb(171, 217, 249);
+    font-size: x-large;
+}
+
+#container-head {
+    color: rgb(29, 182, 65);
+    ;
+}
+
+input {
+    font-size: large
+}
+
+button {
+    padding: 6px 30px;
+    font-size: large;
+    background-color: rgb(17, 168, 171);
+}
+
+button:hover {
+    background-color: rgb(30, 235, 239);
+    border: 2px solid rgb(4, 91, 102);
+
+}
+
+span h2 {
+    color: rgb(29, 182, 65);
+}
+
+footer {
+    background-color: black;
+    height: auto;
+    margin-top: 10px;
+    padding-bottom: 2px;
+}
+
+.footer-section {
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+
+.footer1 {
+    margin-top: 20px;
+    color: white;
+    padding-top: 20px;
+    
+}
+
+.footer2 {
+    margin-top: 20px;
+}
+
+.footer3 {
+    margin-top: 20px;
+}
+
+.footer2 ul li a {
+    text-decoration: none;
+    color: white;
+    list-style: none;
+}
+
+.footer2 ul li {
+    color: white;
+}
+
+.footer2 ul li a:hover {
+    color: rgb(61, 235, 148);
+    font-size: 1.05rem;
+
+}
+
+.footer1-about {
+    color: gray;
+}
+
+.Copyright {
+    text-align: center;
+    color: rgb(68, 68, 68);
+}
